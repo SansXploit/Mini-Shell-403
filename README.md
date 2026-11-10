@@ -1,7 +1,7 @@
 ## Mini Shell 403
 `Bypass 403 edition`
 
-<img src="[https://images4.imgbox.com/9f/b3/UjeEK4zB_o.png]" width="1000">
+<img src="[https://raw.githubusercontent.com/SansXploit/Mini-Shell-403/refs/heads/main/SansXploit.png]" width="1000">
 
 
 ### Project Profile
